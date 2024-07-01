@@ -55,6 +55,7 @@ URLS: list = [
     "app.router.api.datetime.router",
     "app.router.api.dictionary.router",
     "app.router.api.fake.router",
+    "app.router.api.trx.router",
     "app.router.api._github.router",
     "app.router.api.location.router",
     "app.router.api.news.router",
